@@ -1,5 +1,8 @@
-단국대학교 인공지능융합학과 분산딥러닝 기말 프로젝트 Repository 입니다.
-│
+
+# 단국대학교 인공지능융합학과 분산딥러닝 기말 프로젝트 Repository 입니다.
+
+## 프로젝트 구조
+```plaintext
 ├── requirements.txt # 가상환경에 설치되어야 할 라이브러리 
 ├── environments.yaml # 가상환경에 설치되어야 할 라이브러리
 │
